@@ -1,1 +1,1 @@
-"# Crypto-App" 
+Crypto Application to display price.
